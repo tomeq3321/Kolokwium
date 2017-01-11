@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\bin\Debug\BiuroPodrozy.exe.config
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\bin\Debug\BiuroPodrozy.exe
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\bin\Debug\BiuroPodrozy.pdb
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\obj\Debug\BiuroPodrozy.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\obj\Debug\BiuroPodrozy.exe
+C:\Users\local\Desktop\kolos\BiuroPodrozy\BiuroPodrozy\obj\Debug\BiuroPodrozy.pdb
